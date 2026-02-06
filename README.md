@@ -79,5 +79,3 @@ Agricultural productivity depends heavily on selecting the right crop for given 
 
 
 
-
-If you want, I can also write a more professional version for a final-year project or portfol
